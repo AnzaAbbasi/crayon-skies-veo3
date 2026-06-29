@@ -90,15 +90,3 @@ README.md          → Project summary and usage
 Let this story be a reminder that AI-powered creativity belongs to everyone — especially those with wild ideas and big hearts.
 
 **Made with imagination, powered by Gemini + Veo, polished in CapCut.**
-
----
-
-## 👩‍💻 Author
-
-**Robina Mirbahar**
-Google Developer Expert (AI/ML) • Google Cloud Champion Innovator – Modern Architecture
-Technical Writer & Cloud Architect
-🔗 [LinkedIn](https://www.linkedin.com/in/robinamirbahar)
-🔗 [Instagram](https://instagram.com/robinamirbahar)
-🔗 [Medium](https://medium.com/@robinamirbahar)
-🔗 [GitHub](https://github.com/RobinaMirbahar)
