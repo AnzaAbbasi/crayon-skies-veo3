@@ -77,7 +77,7 @@ README.md          → Project summary and usage
 4. **Export & Share**: Enjoy your cinematic Google Jet adventure!
 
 📄 [Storyboard & Docs](https://github.com/RobinaMirbahar/crayon-skies-veo3)
-📂 [Prompt Files](https://github.com/RobinaMirbahar/crayon-skies-veo3-/blob/main/prompts.md)
+📂 [Prompt Files](https://github.com/AnzaAbbasi/crayon-skies-veo3/blob/main/prompts.md)
 
 ---
 
